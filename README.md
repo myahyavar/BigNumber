@@ -1,2 +1,2 @@
 # BigNumber
-Multipication Of Two Very Big Numbers In C
+Multipication of two very big numbers read from file and storing them in unsinged char arrays
